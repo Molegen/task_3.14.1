@@ -3,9 +3,9 @@
 ---
 
 ### Работа с ветками:
-1. [git branch](./branch.md)
-2. [git checkout](./checkout.md)
-3. [git merge](./merge.md)
+- [git branch](./branch.md)
+- [git checkout](./checkout.md)
+- [git merge](./merge.md)
 
 ---
 
