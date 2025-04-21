@@ -3,9 +3,9 @@
 ---
 
 ### Работа с ветками:
-1. [git branch](./branch.md)
-2. [git checkout](./checkout.md)
-3. [git merge](./merge.md)
+- [git branch](./branch.md)
+- [git checkout](./checkout.md)
+- [git merge](./merge.md)
 
 ---
 
@@ -20,11 +20,11 @@ git checkout [название]
 Есть возможность сразу создать ветку и переключиться на неё:
 
 ~~~bash=
-git checkout -b [hotfix]
+git checkout -b [название]
 ~~~
 
 Кроме взаимодействия с ветками есть возможность отмены изменений в файле с помощью команды:
 
 ~~~bash=
-git checkout -- [config.yml]
+git checkout -- [файл]
 ~~~
