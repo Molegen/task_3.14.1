@@ -3,10 +3,10 @@
 ---
 
 ### Основные команды:
-1. [git add](./add.md)
-2. [git init](./init.md)
-3. [git commit](./commit.md)
-4. [git clone](./clone.md)
+- [git add](./add.md)
+- [git init](./init.md)
+- [git commit](./commit.md)
+- [git clone](./clone.md)
 
 ---
 
